@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- This project produces an executable targeting .NET 6.0 -->
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <!-- Enable implicit global using directives -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- Enable nullable reference types -->
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
